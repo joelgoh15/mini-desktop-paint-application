@@ -1,0 +1,16 @@
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\bin\Debug\net6.0-windows\mini_desktop_paint_application.exe
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\bin\Debug\net6.0-windows\mini_desktop_paint_application.deps.json
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\bin\Debug\net6.0-windows\mini_desktop_paint_application.runtimeconfig.json
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\bin\Debug\net6.0-windows\mini_desktop_paint_application.dll
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\bin\Debug\net6.0-windows\mini_desktop_paint_application.pdb
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\obj\Debug\net6.0-windows\mini_desktop_paint_application.csproj.GenerateResource.cache
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\obj\Debug\net6.0-windows\mini_desktop_paint_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\obj\Debug\net6.0-windows\mini_desktop_paint_application.AssemblyInfoInputs.cache
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\obj\Debug\net6.0-windows\mini_desktop_paint_application.AssemblyInfo.cs
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\obj\Debug\net6.0-windows\mini_desktop_paint_application.csproj.CoreCompileInputs.cache
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\obj\Debug\net6.0-windows\mini_desktop_paint_application.dll
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\obj\Debug\net6.0-windows\refint\mini_desktop_paint_application.dll
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\obj\Debug\net6.0-windows\mini_desktop_paint_application.pdb
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\obj\Debug\net6.0-windows\mini_desktop_paint_application.genruntimeconfig.cache
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\obj\Debug\net6.0-windows\ref\mini_desktop_paint_application.dll
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\project8_3\obj\Debug\net6.0-windows\project8_3.formMiniDesktopPaintApplication.resources
