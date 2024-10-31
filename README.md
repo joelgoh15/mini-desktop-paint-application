@@ -1,7 +1,7 @@
 # Mini Desktop Paint Application
 A mini desktop paint application.
 
-# Technical Details
+## Technical Details
 1. Technology stacks and approach used:
 <ul>
   <ul>
@@ -10,5 +10,5 @@ A mini desktop paint application.
   </ul>
 </ul>
 
-# Project Presentation
+## Project Presentation
 https://github.com/user-attachments/assets/f05084c4-2e2a-48fd-84fb-d532938c543f
