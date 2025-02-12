@@ -1,4 +1,4 @@
-# Mini Desktop Paint Application
+## Introduction
 A mini desktop paint application.
 
 ## Technical Details
